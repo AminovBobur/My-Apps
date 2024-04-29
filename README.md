@@ -21,8 +21,8 @@ And below are some projects that I have prepared and not put on the market:
 
 1. Budget app - calculating budgets. <br/>
 
-<img src="https://your-image-url.type" width="100" height="100" width="100" height="100">
-   
+<img src="https://your-image-url.type](https://github.com/AminovBobur/My-Apps/assets/113689058/79c03ba1-7709-4aec-8be3-d5c542ac5cf3" width="100" height="100">
+
 
 
 
