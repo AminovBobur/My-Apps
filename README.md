@@ -10,17 +10,19 @@ I have been in the field of programming for 4 years. The first programming langu
 Below are a few of the projects that I have prepared and participated in. They are currently out of service for certain reasons.
 
 1. Maydonim - sport app.
+   https://play.google.com/store/apps/details?id=uz.maydon.app
 
-https://play.google.com/store/apps/details?id=uz.maydon.app
-
-3. MedKit - medical app.
-https://play.google.com/store/apps/details?id=com.medkit.patient
+2. MedKit - medical app.
+   https://play.google.com/store/apps/details?id=com.medkit.patient
 
 # GitHub Projects
 
 And below are some projects that I have prepared and not put on the market:
 
-1. Budget app - calculating budgets \n\n /n/n
+1. Budget app - calculating budgets.
+2. ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/6cd375ae-4a11-49dc-b049-457a9241b1d8)
+![1](https://github.com/AminovBobur/My-Apps/assets/113689058/20eb7b9b-4094-4ed4-997a-e581232bd489)
+
 qwerty
 # image
 qwerty
