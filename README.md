@@ -9,11 +9,8 @@ I have been in the field of programming for 4 years. The first programming langu
 
 Below are a few of the projects that I have prepared and participated in. They are currently out of service for certain reasons.
 
-1. Maydonim - sport app. <br/>
-   https://play.google.com/store/apps/details?id=uz.maydon.app
-
-2. MedKit - medical app. <br/>
-   https://play.google.com/store/apps/details?id=com.medkit.patient
+1. [Maydonim](https://play.google.com/store/apps/details?id=uz.maydon.app) - sport app.
+2. [MedKit](https://play.google.com/store/apps/details?id=com.medkit.patient) - medical app.
 
 # GitHub Projects
 
@@ -36,12 +33,6 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/6b203910-8490-4009-83d7-17425deb400f" width=100 />
    <img src="" width=100 />
 
-![6]()
-![5]()
-![4]()
-![3]()
-![2]()
-![1]()
 
 
 
