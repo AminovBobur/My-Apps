@@ -79,6 +79,6 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/6c94fda4-2605-4701-afd3-4ff9460b35f5" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/00eac478-df40-4523-985b-432417e70a20" width=100 />
 
-<br/><br/>
+<br/>
 
 It's part of what I've done so far. And even now I continue to develop myself.
