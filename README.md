@@ -65,21 +65,20 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/d9065a18-6eb0-4299-995a-c32867c90451" width=100 />
 
 7. [Wallet](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/7.%20Wallet.apk) - storage for all cards. <br/><br/>
-   <img src="" width=100 />
-![4](https://github.com/AminovBobur/My-Apps/assets/113689058/008e1ba9-4f81-4623-9a7e-a5b6dd3b154f)
-![3](https://github.com/AminovBobur/My-Apps/assets/113689058/221f6f82-8d1a-47c0-80bc-0cad73588016)
-![2](https://github.com/AminovBobur/My-Apps/assets/113689058/1c7bbf2c-0625-4000-abbe-0cc69615768f)
-![1](https://github.com/AminovBobur/My-Apps/assets/113689058/e4f16396-005f-4f90-964b-8c277ef887d8)
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/e4f16396-005f-4f90-964b-8c277ef887d8" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/1c7bbf2c-0625-4000-abbe-0cc69615768f" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/221f6f82-8d1a-47c0-80bc-0cad73588016" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/008e1ba9-4f81-4623-9a7e-a5b6dd3b154f" width=100 />
 
 8. [Home Info](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/8.%20Home%20info.apk) - info of all items. <br/><br/>
-   <img src="" width=100 />
-![7](https://github.com/AminovBobur/My-Apps/assets/113689058/00eac478-df40-4523-985b-432417e70a20)
-![6](https://github.com/AminovBobur/My-Apps/assets/113689058/6c94fda4-2605-4701-afd3-4ff9460b35f5)
-![5](https://github.com/AminovBobur/My-Apps/assets/113689058/56d43a3c-97c5-4ac0-a17a-9413b370a174)
-![4](https://github.com/AminovBobur/My-Apps/assets/113689058/dfaeb2de-f09a-41fc-9fc9-1d0f73e60fed)
-![3](https://github.com/AminovBobur/My-Apps/assets/113689058/52f13902-3b81-4c50-9939-b04aa2aac429)
-![2](https://github.com/AminovBobur/My-Apps/assets/113689058/a3a60fef-993d-49d5-9cc0-20a783741c18)
-![1](https://github.com/AminovBobur/My-Apps/assets/113689058/df779d1d-1fe2-4edf-a188-82c495adc313)
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/df779d1d-1fe2-4edf-a188-82c495adc313" width=100 /> 
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/a3a60fef-993d-49d5-9cc0-20a783741c18" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/52f13902-3b81-4c50-9939-b04aa2aac429" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/dfaeb2de-f09a-41fc-9fc9-1d0f73e60fed" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/56d43a3c-97c5-4ac0-a17a-9413b370a174" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/6c94fda4-2605-4701-afd3-4ff9460b35f5" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/00eac478-df40-4523-985b-432417e70a20" width=100 />
 
+<br/><br/>
 
-
+It's part of what I've done so far. And even now I continue to develop myself.
