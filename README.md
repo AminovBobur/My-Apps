@@ -20,9 +20,9 @@ Below are a few of the projects that I have prepared and participated in. They a
 And below are some projects that I have prepared and not put on the market:
 
 1. Budget app - calculating budgets. <br/>
-![6](https://github.com/AminovBobur/My-Apps/assets/113689058/b5dc3147-04ff-4934-bb3b-6f14256542d9)
-![5](https://github.com/AminovBobur/My-Apps/assets/113689058/4b836d70-ef86-4801-9a84-017b7dcadedf)
-![4](https://github.com/AminovBobur/My-Apps/assets/113689058/d4e4974b-6de7-48b4-b926-c196df6711d2)
-![3](https://github.com/AminovBobur/My-Apps/assets/113689058/81a83130-af2e-4b13-875a-3e41ffcb1385)
-![2](https://github.com/AminovBobur/My-Apps/assets/113689058/192b7149-ca7a-4e76-a72a-4f73755e16ff)
 ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/de91d8a4-ef2e-49e5-84a9-952179dc5416)
+![2](https://github.com/AminovBobur/My-Apps/assets/113689058/192b7149-ca7a-4e76-a72a-4f73755e16ff)
+![3](https://github.com/AminovBobur/My-Apps/assets/113689058/81a83130-af2e-4b13-875a-3e41ffcb1385)
+![4](https://github.com/AminovBobur/My-Apps/assets/113689058/d4e4974b-6de7-48b4-b926-c196df6711d2)
+![5](https://github.com/AminovBobur/My-Apps/assets/113689058/4b836d70-ef86-4801-9a84-017b7dcadedf)
+![6](https://github.com/AminovBobur/My-Apps/assets/113689058/b5dc3147-04ff-4934-bb3b-6f14256542d9)
