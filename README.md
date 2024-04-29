@@ -28,7 +28,22 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/b5dc3147-04ff-4934-bb3b-6f14256542d9" width=100 />
 
 2. Sudoku - game. [Download apk](https://github.com/AminovBobur/My-Apps/blob/5be18dc22517a27e47018bdca6a03dab046e8180/2.%20Sudoku.apk) <br/><br/>
-   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/b5dc3147-04ff-4934-bb3b-6f14256542d9" width=100 />
+   <img src="" width=100 />
+   <img src="" width=100 />
+   <img src="" width=100 />
+   <img src="" width=100 />
+   <img src="" width=100 />
+   <img src="" width=100 />
+   <img src="" width=100 />
+
+![6](https://github.com/AminovBobur/My-Apps/assets/113689058/6b203910-8490-4009-83d7-17425deb400f)
+![5](https://github.com/AminovBobur/My-Apps/assets/113689058/86d4894d-0c06-45cb-b085-8a9e899703f2)
+![4](https://github.com/AminovBobur/My-Apps/assets/113689058/0bf3e65d-d3b9-4d54-94a4-c80808779672)
+![3](https://github.com/AminovBobur/My-Apps/assets/113689058/5fa1f3e1-6a19-4b34-a6d9-af939d5b0ae1)
+![2](https://github.com/AminovBobur/My-Apps/assets/113689058/418c9cc0-f2e8-41d9-8bbf-82685b3b7212)
+![1](https://github.com/AminovBobur/My-Apps/assets/113689058/7695a733-bc1a-423f-924a-64bd91741682)
+
+
 
 3. qwe
 4. qwer
