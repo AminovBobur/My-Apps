@@ -49,15 +49,14 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/02128832-1807-4b9e-bc6f-6fdb82ec92f5" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/a4350780-0bb7-413d-bacf-2d4b5b759a5d" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/a603bacd-a64e-412e-a803-46ec3fc9a036" width=100 />
+
+5. [Time](https://github.com/AminovBobur/My-Apps/blob/cb765e44267840402a806bc488fa4f915c09e305/5.%20Time.apk) - stopwatch, alarm, timer. <br/><br/>
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/8b450cee-db43-4b67-a154-69d3bd69e9ed" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/5cf3ee0c-1f29-45b4-9f9d-8138d78ac936" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/962ddc80-00d3-411a-b4df-b2233da6c0fd" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/d99b7cbf-084a-479f-994c-c9840aedf1ce" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/39353625-44c7-47ad-b03c-a382a63c13a2" width=100 />
    <img src="" width=100 />
-
-5. Time <br/><br/>
-
-![5](https://github.com/AminovBobur/My-Apps/assets/113689058/39353625-44c7-47ad-b03c-a382a63c13a2)
-![4](https://github.com/AminovBobur/My-Apps/assets/113689058/d99b7cbf-084a-479f-994c-c9840aedf1ce)
-![3](https://github.com/AminovBobur/My-Apps/assets/113689058/962ddc80-00d3-411a-b4df-b2233da6c0fd)
-![2](https://github.com/AminovBobur/My-Apps/assets/113689058/5cf3ee0c-1f29-45b4-9f9d-8138d78ac936)
-![1](https://github.com/AminovBobur/My-Apps/assets/113689058/8b450cee-db43-4b67-a154-69d3bd69e9ed)
 
 6. Prayer Times <br/><br/>
 
