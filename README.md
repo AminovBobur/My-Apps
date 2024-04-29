@@ -39,20 +39,19 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/88bf6292-11bf-431c-a055-e15c97a2e784" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/9b5248bf-23ea-4b7b-972c-85f21bd8eb37" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/fc3eed0a-2bd5-4a09-9f19-139a7ad4c97a" width=100 />
+
+4. [Calendar Note](https://github.com/AminovBobur/My-Apps/blob/6de811df5f41d917b45174b0cd59d396b7a449f6/4.%20Calendar%20note.apk) - birthday note. <br/><br/>
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/32424a9e-ffb0-4dd3-b896-f79d8628f82e" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/f64f0d35-4990-48ae-86f0-1236fd3ac476" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/c3229a35-5bf2-4850-a9b3-1efa95ca9b7a" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/9315fe2a-bc5d-49e2-b29f-541beb66304a" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/e5025695-86f5-46a9-9a6c-07704a8f58e4" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/02128832-1807-4b9e-bc6f-6fdb82ec92f5" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/a4350780-0bb7-413d-bacf-2d4b5b759a5d" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/a603bacd-a64e-412e-a803-46ec3fc9a036" width=100 />
    <img src="" width=100 />
 
-4. Calendar Note
-
-![8](https://github.com/AminovBobur/My-Apps/assets/113689058/a603bacd-a64e-412e-a803-46ec3fc9a036)
-![7](https://github.com/AminovBobur/My-Apps/assets/113689058/a4350780-0bb7-413d-bacf-2d4b5b759a5d)
-![6](https://github.com/AminovBobur/My-Apps/assets/113689058/02128832-1807-4b9e-bc6f-6fdb82ec92f5)
-![5](https://github.com/AminovBobur/My-Apps/assets/113689058/e5025695-86f5-46a9-9a6c-07704a8f58e4)
-![4](https://github.com/AminovBobur/My-Apps/assets/113689058/9315fe2a-bc5d-49e2-b29f-541beb66304a)
-![3](https://github.com/AminovBobur/My-Apps/assets/113689058/c3229a35-5bf2-4850-a9b3-1efa95ca9b7a)
-![2](https://github.com/AminovBobur/My-Apps/assets/113689058/f64f0d35-4990-48ae-86f0-1236fd3ac476)
-![1](https://github.com/AminovBobur/My-Apps/assets/113689058/32424a9e-ffb0-4dd3-b896-f79d8628f82e)
-
-5. Time
+5. Time <br/><br/>
 
 ![5](https://github.com/AminovBobur/My-Apps/assets/113689058/39353625-44c7-47ad-b03c-a382a63c13a2)
 ![4](https://github.com/AminovBobur/My-Apps/assets/113689058/d99b7cbf-084a-479f-994c-c9840aedf1ce)
@@ -60,7 +59,7 @@ And below are some projects that I have prepared and not put on the market:
 ![2](https://github.com/AminovBobur/My-Apps/assets/113689058/5cf3ee0c-1f29-45b4-9f9d-8138d78ac936)
 ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/8b450cee-db43-4b67-a154-69d3bd69e9ed)
 
-6. Prayer Times
+6. Prayer Times <br/><br/>
 
 ![5](https://github.com/AminovBobur/My-Apps/assets/113689058/d9065a18-6eb0-4299-995a-c32867c90451)
 ![4](https://github.com/AminovBobur/My-Apps/assets/113689058/276e29d6-82e8-46ba-a526-043a136e6c78)
@@ -68,14 +67,14 @@ And below are some projects that I have prepared and not put on the market:
 ![2](https://github.com/AminovBobur/My-Apps/assets/113689058/767a9d82-e621-4b8e-a207-a9cb573bc281)
 ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/de1ec5f3-6592-491c-b0fa-35346a96c848)
 
-7. Wallet
+7. Wallet <br/><br/>
 
 ![4](https://github.com/AminovBobur/My-Apps/assets/113689058/008e1ba9-4f81-4623-9a7e-a5b6dd3b154f)
 ![3](https://github.com/AminovBobur/My-Apps/assets/113689058/221f6f82-8d1a-47c0-80bc-0cad73588016)
 ![2](https://github.com/AminovBobur/My-Apps/assets/113689058/1c7bbf2c-0625-4000-abbe-0cc69615768f)
 ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/e4f16396-005f-4f90-964b-8c277ef887d8)
 
-8. Home Info
+8. Home Info <br/><br/>
 
 ![7](https://github.com/AminovBobur/My-Apps/assets/113689058/00eac478-df40-4523-985b-432417e70a20)
 ![6](https://github.com/AminovBobur/My-Apps/assets/113689058/6c94fda4-2605-4701-afd3-4ff9460b35f5)
