@@ -31,16 +31,15 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/0bf3e65d-d3b9-4d54-94a4-c80808779672" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/86d4894d-0c06-45cb-b085-8a9e899703f2" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/6b203910-8490-4009-83d7-17425deb400f" width=100 />
-   <img src="" width=100 />
 
 3. [Tic Tac Toe](https://github.com/AminovBobur/My-Apps/blob/01f9351e6bf79eafcb36a4fd095b6f4cf40bdafe/3.%20Tic%20tac%20toe.apk) - game. <br/><br/>
-
-![6](https://github.com/AminovBobur/My-Apps/assets/113689058/fc3eed0a-2bd5-4a09-9f19-139a7ad4c97a)
-![5](https://github.com/AminovBobur/My-Apps/assets/113689058/9b5248bf-23ea-4b7b-972c-85f21bd8eb37)
-![4](https://github.com/AminovBobur/My-Apps/assets/113689058/88bf6292-11bf-431c-a055-e15c97a2e784)
-![3](https://github.com/AminovBobur/My-Apps/assets/113689058/1e94604a-0957-437b-8da6-c8cf67ac69a8)
-![2](https://github.com/AminovBobur/My-Apps/assets/113689058/6d2df090-c05a-46ff-b453-fd5ee1bd4c9c)
-![1](https://github.com/AminovBobur/My-Apps/assets/113689058/0a4bcbb3-d938-4f62-b230-f81b721bbbcb)
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/0a4bcbb3-d938-4f62-b230-f81b721bbbcb" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/6d2df090-c05a-46ff-b453-fd5ee1bd4c9c" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/1e94604a-0957-437b-8da6-c8cf67ac69a8" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/88bf6292-11bf-431c-a055-e15c97a2e784" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/9b5248bf-23ea-4b7b-972c-85f21bd8eb37" width=100 />
+   <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/fc3eed0a-2bd5-4a09-9f19-139a7ad4c97a" width=100 />
+   <img src="" width=100 />
 
 4. Calendar Note
 
