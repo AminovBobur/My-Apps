@@ -58,7 +58,7 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/39353625-44c7-47ad-b03c-a382a63c13a2" width=100 />
    <img src="" width=100 />
 
-6. Prayer Times <br/><br/>
+6. [Prayer Times](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/6.%20Prayer%20times.apk) - daily, weekly adn yearly prayer times. And tasbeeh. <br/><br/>
 
 ![5](https://github.com/AminovBobur/My-Apps/assets/113689058/d9065a18-6eb0-4299-995a-c32867c90451)
 ![4](https://github.com/AminovBobur/My-Apps/assets/113689058/276e29d6-82e8-46ba-a526-043a136e6c78)
@@ -66,14 +66,14 @@ And below are some projects that I have prepared and not put on the market:
 ![2](https://github.com/AminovBobur/My-Apps/assets/113689058/767a9d82-e621-4b8e-a207-a9cb573bc281)
 ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/de1ec5f3-6592-491c-b0fa-35346a96c848)
 
-7. Wallet <br/><br/>
+7. [Wallet](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/7.%20Wallet.apk) - storage for all cards. <br/><br/>
 
 ![4](https://github.com/AminovBobur/My-Apps/assets/113689058/008e1ba9-4f81-4623-9a7e-a5b6dd3b154f)
 ![3](https://github.com/AminovBobur/My-Apps/assets/113689058/221f6f82-8d1a-47c0-80bc-0cad73588016)
 ![2](https://github.com/AminovBobur/My-Apps/assets/113689058/1c7bbf2c-0625-4000-abbe-0cc69615768f)
 ![1](https://github.com/AminovBobur/My-Apps/assets/113689058/e4f16396-005f-4f90-964b-8c277ef887d8)
 
-8. Home Info <br/><br/>
+8. [Home Info](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/8.%20Home%20info.apk) - info of all items. <br/><br/>
 
 ![7](https://github.com/AminovBobur/My-Apps/assets/113689058/00eac478-df40-4523-985b-432417e70a20)
 ![6](https://github.com/AminovBobur/My-Apps/assets/113689058/6c94fda4-2605-4701-afd3-4ff9460b35f5)
