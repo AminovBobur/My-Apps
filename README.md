@@ -20,7 +20,8 @@ Below are a few of the projects that I have prepared and participated in. They a
 And below are some projects that I have prepared and not put on the market:
 
 1. Budget app - calculating budgets. <br/>
-   <img src="[https://your-image-url.type](https://github.com/AminovBobur/My-Apps/assets/113689058/7f6bbf0b-b151-4f7d-ad49-d6517be19f62)" width="100">
+
+<img src="https://your-image-url.type" width="100" height="100" width="100" height="100">
    
 
 
