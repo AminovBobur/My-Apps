@@ -33,8 +33,9 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/6b203910-8490-4009-83d7-17425deb400f" width=100 />
    <img src="" width=100 />
 
+3. [Tic Tac Toe](https://github.com/AminovBobur/My-Apps/blob/01f9351e6bf79eafcb36a4fd095b6f4cf40bdafe/3.%20Tic%20tac%20toe.apk) - game. <br/><br/>
 
 
 
-3. qwe
+
 4. qwer
