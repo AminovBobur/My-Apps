@@ -29,3 +29,6 @@ And below are some projects that I have prepared and not put on the market:
 
 2. Sudoku - game. [Download apk](https://github.com/AminovBobur/My-Apps/blob/5be18dc22517a27e47018bdca6a03dab046e8180/2.%20Sudoku.apk) <br/><br/>
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/b5dc3147-04ff-4934-bb3b-6f14256542d9" width=100 />
+
+3. qwe
+4. qwer
