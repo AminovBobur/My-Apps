@@ -57,7 +57,7 @@ And below are some projects that I have prepared and not put on the market:
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/d99b7cbf-084a-479f-994c-c9840aedf1ce" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/39353625-44c7-47ad-b03c-a382a63c13a2" width=100 />
 
-6. [Prayer Times](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/6.%20Prayer%20times.apk) - daily, weekly adn yearly prayer times. And tasbeeh. <br/><br/>
+6. [Prayer Times](https://github.com/AminovBobur/My-Apps/blob/5940b81e96c23d33aec77d1d8338043f2e598411/6.%20Prayer%20times.apk) - daily, weekly and yearly prayer times. And tasbeeh. <br/><br/>
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/de1ec5f3-6592-491c-b0fa-35346a96c848" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/767a9d82-e621-4b8e-a207-a9cb573bc281" width=100 />
    <img src="https://github.com/AminovBobur/My-Apps/assets/113689058/b08f7134-a4db-48fe-8dde-07e1287a845c" width=100 />
